@@ -1,0 +1,123 @@
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+@font-face {
+    font-family: 'sweetie-pie';
+    src: url("Sweetie-Pie.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Love Letters';
+    src: url("LoveLetters.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Warioland4chmc-VApe';
+    src: url("Warioland4chmc-VApe.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Y2K_neophyte_italic';
+    src: url("Y2K_neophyte_italic.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+a { text-decoration: none; }
+
+p {
+  font-size: 30px;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-family:'Y2K_';
+  text-align:center;
+  color:DarkSlateGray;
+}
+
+h1 {
+  font-size: 60px;
+  font-family:'Warioland4chmc-VApe';
+  text-align:center;
+  color:Black;
+     text-shadow: 0 0 7px Violet, 0 0 5px Ivory;
+
+}
+
+h2 {
+  font-size: 45px;
+  font-family:'sweetie-pie';
+  text-align:center;
+  color:#fc03c2;
+    text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
+}
+
+h3 {
+  font-size: 20px;
+  font-family:'Y2K_neophyte_italic';
+  font-weight: thin;
+  text-align:center;
+  letter-spacing: ;
+  color:Black;
+}
+
+h4 {
+  font-size: 18px;
+  font-family:'Warioland4chmc-VApe';
+  text-align:center;
+  color:Black;
+}
+
+
+body{  
+  font-size: 20px;
+  font-family:'AusionPersonalUse-Light';
+  text-align:center;
+  color:Black
+}
+
+a {
+  color:#fc03b6;
+  text-decoration: none;
+}
+
+div {
+  font-stretch: ultra-condensed;
+  line-height: 1.0;
+  opacity: 0.9;
+}
+
+
+hr { 
+background-color: SlateGray; 
+height: 1.5px; 
+border: 0; 
+}
+
+img {
+  opacity: 1.0;
+}
+
+img:hover {
+  opacity: 0.7;
+}
+
+iframe {
+  max-width: 100%
+  height:auto;
+}
+
+.boxed {
+  border: 1px solid red;
+  margin-right: 15%;
+  margin-left: 15%;
+}
